@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="AllTest" verbose="1">
+	<test name="TextBoxTests">
+		<classes>
+			<class name="com.demoqa.TextBoxTest">
+			</class>
+		</classes>
+	</test>
+	<test name="RadioButtonTests">
+		<classes>
+			<class name="com.demoqa.RadioButtonTest">
+			</class>
+		</classes>
+	</test>
+</suite>
